@@ -4,8 +4,15 @@
 }
 img {
     border:4px red solid;
-    width:50%;
-    
+    width:10%;
+}
+body{
+    position:relative;
+}
+.image-link{
+    position:fixed;
+    top:20vh;
+    left:10vh;
 }
 h3 {
     color: blue;
