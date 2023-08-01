@@ -3,7 +3,9 @@
     padding: 0;
 }
 img {
-    border-color: red;
+    border:4px red solid;
+    width:50%;
+    
 }
 h3 {
     color: blue;
